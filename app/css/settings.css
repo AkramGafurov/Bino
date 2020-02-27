@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  background-color: #fff;
+  color: #f4f5f9;
+  overflow-x: hidden;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}

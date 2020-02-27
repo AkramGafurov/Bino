@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('subset-OpenSans-SemiBoldItalic.eot');
+    src: url('subset-OpenSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('subset-OpenSans-SemiBoldItalic.woff2') format('woff2'),
+        url('subset-OpenSans-SemiBoldItalic.woff') format('woff'),
+        url('subset-OpenSans-SemiBoldItalic.ttf') format('truetype'),
+        url('subset-OpenSans-SemiBoldItalic.svg#OpenSans-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('subset-OpenSans-Light.eot');
+    src: url('subset-OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('subset-OpenSans-Light.woff2') format('woff2'),
+        url('subset-OpenSans-Light.woff') format('woff'),
+        url('subset-OpenSans-Light.ttf') format('truetype'),
+        url('subset-OpenSans-Light.svg#OpenSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('subset-OpenSans-SemiBold.eot');
+    src: url('subset-OpenSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('subset-OpenSans-SemiBold.woff2') format('woff2'),
+        url('subset-OpenSans-SemiBold.woff') format('woff'),
+        url('subset-OpenSans-SemiBold.ttf') format('truetype'),
+        url('subset-OpenSans-SemiBold.svg#OpenSans-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('subset-OpenSans-Bold.eot');
+    src: url('subset-OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-OpenSans-Bold.woff2') format('woff2'),
+        url('subset-OpenSans-Bold.woff') format('woff'),
+        url('subset-OpenSans-Bold.ttf') format('truetype'),
+        url('subset-OpenSans-Bold.svg#OpenSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('subset-OpenSans-Regular.eot');
+    src: url('subset-OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('subset-OpenSans-Regular.woff2') format('woff2'),
+        url('subset-OpenSans-Regular.woff') format('woff'),
+        url('subset-OpenSans-Regular.ttf') format('truetype'),
+        url('subset-OpenSans-Regular.svg#OpenSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
