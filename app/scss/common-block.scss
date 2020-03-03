@@ -30,6 +30,10 @@
   transition: 0.3s;
 }
 
+.link-btn-frame:hover {
+  box-shadow: 0 0 3px 5px rgba(255, 255, 255, 0.5);
+}
+
 .link-btn-red {
   display: flex;
   align-items: center;
@@ -47,6 +51,10 @@
   transition: 0.3s;
 }
 
+.link-btn-red:hover {
+  box-shadow: 0 0 3px 5px rgba(231, 76, 60, 0.5);
+}
+
 .link-btn-sm {
   display: flex;
   align-items: center;
@@ -61,14 +69,6 @@
   text-decoration: none;
   text-transform: uppercase;
   transition: 0.3s;
-}
-
-.link-btn_hover:hover {
-  box-shadow: 0 0 3px 5px rgba(231, 76, 60, 0.5);
-}
-
-.link-btn-frame_hover:hover {
-  box-shadow: 0 0 3px 5px rgba(255, 255, 255, 0.5);
 }
 
 .link-btn-sm:hover {
