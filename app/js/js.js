@@ -4,4 +4,9 @@ $(document).ready(function() {
     //autoplay: true
   });
   $(".case-study__slider").slick({});
+
+  $(".nav__mobile-menu").click(function(e) {
+    $(".nav__mobile-menu").toggleClass("nav__line-active");
+    $(".menu").toggleClass("menu-active");
+  });
 });

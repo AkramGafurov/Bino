@@ -1,0 +1,9 @@
+/*media queries*/
+@media all and (max-width: 1825px) {
+  .header .slick-arrow.slick-prev {
+    left: -31px;
+  }
+  .header .slick-arrow.slick-next {
+    right: -31px;
+  }
+}
